@@ -1,0 +1,49 @@
+*{
+    margin: 0 auto;
+}
+
+.v-sidebar-menu {
+
+    
+    
+}
+.v-sidebar-menu.vsm_expanded {
+    max-width: 250px!important;
+}
+.v-sidebar-menu.vsm_collapsed {
+    max-width: 50px!important;
+}
+.vsm--scroll-wrapper{
+    margin-right: auto!important;
+}
+.v-sidebar-menu .vsm--toggle-btn{
+    height: 100px;
+    padding-bottom: 50px;
+}
+.v-sidebar-menu.vsm_rtl {}
+.v-sidebar-menu .vsm--item {}
+.v-sidebar-menu .vsm--item.vsm--item_open {}
+.v-sidebar-menu .vsm--link {}
+.v-sidebar-menu .vsm--link.vsm--link_active {}
+.v-sidebar-menu .vsm--link.vsm--link_exact-active {}
+.v-sidebar-menu .vsm--link.vsm--link_mobile-item {}
+.v-sidebar-menu .vsm--link.vsm--link_level-[n] {}
+.v-sidebar-menu .vsm--link.vsm--link_disabled {}
+.v-sidebar-menu .vsm--title {}
+.v-sidebar-menu .vsm--icon {}
+.v-sidebar-menu .vsm--arrow {}
+.v-sidebar-menu .vsm--arrow.vsm--arrow_open {}
+.v-sidebar-menu .vsm--badge {}
+.v-sidebar-menu .vsm--header {}
+.v-sidebar-menu .vsm--list {}
+.v-sidebar-menu .vsm--dropdown>.vsm--list {}
+.v-sidebar-menu .vsm--mobile-item {}
+.v-sidebar-menu .vsm--mobile-bg {}
+.v-sidebar-menu .vsm--toggle-btn {}
+.navbar{
+    height: 60px!important;
+}
+.user-menu{
+   padding-left: 12in;
+
+}
